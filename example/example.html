@@ -1,0 +1,17 @@
+<head>
+	<title>example</title>
+</head>
+
+<body>
+	{{> test}}
+</body>
+
+<template name="test">
+
+	<h1>{{t "hello_world" "hello world"}}</h1>
+	<p>{{today}}</p>
+	<button id="switchLanguageButton">{{t "switch_language" "switch_language"}}</button>
+	<hr>
+	<p>{{t "without_translation" "this text has no translation"}}</p>
+
+</template>
