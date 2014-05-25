@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "i18n-meteor": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "i18n-meteor": {
+        "path": "."
+      }
+    }
+  }
+}

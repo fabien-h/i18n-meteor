@@ -3,7 +3,7 @@
 	"description": "Simple i18n package using static files. Works well with moment js.",
 	"homepage": "https://github.com/fabien-h/i18n-meteor",
 	"author": "Fabien Huet <fabien.huet@gmail.com> (http://wax-o.com)",
-	"version": "0.1.02",
+	"version": "0.1.03",
 	"git": "https://github.com/fabien-h/i18n-meteor.git",
 	"packages": {}
 }
