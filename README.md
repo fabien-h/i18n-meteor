@@ -88,3 +88,7 @@ Will return a translated version of `string` or fallback to the default one if t
 Will set the language to en and load the files if they haven't been already.
 
 > Because the template helpers and code helpers are linked to the `Session` object, when the language change, all the translated object will be updated.
+
+## Use case
+
+There is a minimal example [here](https://github.com/fabien-h/i18n-meteor/tree/master/example).
