@@ -5,7 +5,5 @@
 	"author": "Fabien Huet <fabien.huet@gmail.com> (http://wax-o.com)",
 	"version": "0.1.0",
 	"git": "https://github.com/fabien-h/i18n-meteor.git",
-	"packages": {
-		"another-cool-pkg": "0.1.1"
-	}
+	"packages": {}
 }
